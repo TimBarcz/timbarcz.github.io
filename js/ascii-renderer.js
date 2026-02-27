@@ -3,7 +3,8 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 
 const CONFIG = {
-  characters: ' .`\'-,:;i!l|\\/>~+<_xrc*v^)j1(}{][?Itsf7FJL32Zeanou5Ykdh4VPASUKXHpbq#0OQDNWM%&@',
+  // Tribute to Jan Barcz — phrases cycle through the brightness gradient
+  characters: " Jan Barcz I miss you mom I'll always love you Jan Barcz I miss you mom I'll always love you",
   cellSize: 6,
   modelPath: 'glb/butterfly-draco.glb',
   renderWidth: 960,
