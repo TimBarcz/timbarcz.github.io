@@ -1,0 +1,15 @@
+# Nested clone - not part of this project
+timbarcz.github.io/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unused/source GLB models (only butterfly-draco.glb is used)
+glb/Grey rhino.glb
+glb/Fluttering butterfly.glb
+glb/a_windy_day.glb
+glb/dragonfly.glb
+glb/butterfly-fixed.glb
+glb/rhino-draco.glb
+glb/windy-opt.glb
